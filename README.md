@@ -30,4 +30,4 @@ Write to me on [LinkedIn](https://www.linkedin.com/in/giovannidigregorio/).
 Notes from building real products with AI: architecture, trade-offs, what works and what doesn't.
 
 - Latest: [The Last Window](https://www.linkedin.com/pulse/last-window-giovanni-di-gregorio-nppif/), on keeping a human eye on AI agents
-- Substack: coming soon
+- Substack: [Senza mani](https://giovannidigregorio.substack.com)
