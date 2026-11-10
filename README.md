@@ -29,5 +29,5 @@ Write to me on [LinkedIn](https://www.linkedin.com/in/giovannidigregorio/).
 
 Notes from building real products with AI: architecture, trade-offs, what works and what doesn't.
 
-- Latest: [The Last Window](https://www.linkedin.com/pulse/last-window-giovanni-di-gregorio-nppif/), on keeping a human eye on AI agents
+- Latest: [I Haven't Written Code by Hand Since March](https://www.linkedin.com/pulse/i-havent-written-code-hand-since-march-giovanni-di-gregorio-unysf/), on assigning work to AI agents and overseeing it
 - Substack: [Senza mani](https://giovannidigregorio.substack.com)
