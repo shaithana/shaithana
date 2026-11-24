@@ -29,5 +29,5 @@ Write to me on [LinkedIn](https://www.linkedin.com/in/giovannidigregorio/).
 
 Notes from building real products with AI: architecture, trade-offs, what works and what doesn't.
 
-- Latest: [Prompt Engineering Was a Crutch](https://www.linkedin.com/pulse/prompt-engineering-crutch-giovanni-di-gregorio-cl7mf/), on why explaining clearly now matters more than prompt tricks
+- Latest: [The Next GTA Won't Take Thirteen Years](https://www.linkedin.com/pulse/next-gta-wont-take-thirteen-years-giovanni-di-gregorio-zpmnf/), on why agents will bring the next game on GTA VI's scale much sooner than expected
 - Substack: [Senza mani](https://giovannidigregorio.substack.com)
